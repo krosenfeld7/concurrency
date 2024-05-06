@@ -1,0 +1,10 @@
+# IDE generated files
+.vscode
+
+# OS generated files
+.DS_Store
+
+# Ignore compiled code, testing executables, etc.
+*.dSYM
+*.o
+*Tester
